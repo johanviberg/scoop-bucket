@@ -1,26 +1,26 @@
 {
-    "version": "0.4.8",
+    "version": "0.4.9",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/johanviberg/zd/releases/download/v0.4.8/zd_0.4.8_windows_i386.zip",
+            "url": "https://github.com/johanviberg/zd/releases/download/v0.4.9/zd_0.4.9_windows_i386.zip",
             "bin": [
                 "zd.exe"
             ],
-            "hash": "cf5a9bcb1ffd678933261fc43223e169655199e147d2a7617d242f2a34e3537b"
+            "hash": "e7bf6533754ecaea3a332e6e65dd1bf4ba3251bec3cf85ae413af964e5a5712c"
         },
         "64bit": {
-            "url": "https://github.com/johanviberg/zd/releases/download/v0.4.8/zd_0.4.8_windows_x86_64.zip",
+            "url": "https://github.com/johanviberg/zd/releases/download/v0.4.9/zd_0.4.9_windows_x86_64.zip",
             "bin": [
                 "zd.exe"
             ],
-            "hash": "867c8b1fa64e60372eedf5784224385eff88bf5978f65ccdf5a08d99954f7289"
+            "hash": "ed06f21c8a84f41db50116a640dacae3e713a7f4d5f5b36d97f5d4eb6eb29887"
         },
         "arm64": {
-            "url": "https://github.com/johanviberg/zd/releases/download/v0.4.8/zd_0.4.8_windows_arm64.zip",
+            "url": "https://github.com/johanviberg/zd/releases/download/v0.4.9/zd_0.4.9_windows_arm64.zip",
             "bin": [
                 "zd.exe"
             ],
-            "hash": "956e93c6468981735f51c66bf5f83ec4398812ec77608ebefbb4572d29cb51eb"
+            "hash": "1477b34cc0346507b465279545ddb212e157766a34d3ff87ca8e5c15fdbecff1"
         }
     },
     "homepage": "https://github.com/johanviberg/zd",
